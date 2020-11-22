@@ -1,4 +1,4 @@
-**Music Switcher**
+# Music Switcher
 Esse programa troca o nome da música e do artista de um arquivo de música *mp3*.
 
 Após baixar o arquivo *.py* você deve criar uma pasta chamada "music" no mesmo diretório e colocar as músicas lá.
