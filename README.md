@@ -1,4 +1,4 @@
-**Music Switcher**
+# Music Switcher
 This program switch name of music and artist of *mp3* music file.
 
 After download the *.py* file you have to create a folder named "music" on the same directory and place the muics there.
